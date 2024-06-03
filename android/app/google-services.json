@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634473576166",
+    "project_id": "learn-flutter-fire-cloud",
+    "storage_bucket": "learn-flutter-fire-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634473576166:android:6df8f9f0dfbef227cded27",
+        "android_client_info": {
+          "package_name": "com.example.cloud_fire_store_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXPV9duXz1n4NNDfJsETlqc7pDuPkacE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
